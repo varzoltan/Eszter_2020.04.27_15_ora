@@ -10,7 +10,7 @@ namespace Eszter_2020._04._27_15_ora
     {
         static void Main(string[] args)
         {
-            //
+            
         }
     }
 }
