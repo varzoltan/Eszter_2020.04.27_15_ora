@@ -1,0 +1,7 @@
+C:\Users\Rendszergazda\Documents\GitHub\Eszter_2020.04.27_15_ora\Eszter_2020.04.27_15_ora\bin\Debug\Eszter_2020.04.27_15_ora.exe.config
+C:\Users\Rendszergazda\Documents\GitHub\Eszter_2020.04.27_15_ora\Eszter_2020.04.27_15_ora\bin\Debug\Eszter_2020.04.27_15_ora.exe
+C:\Users\Rendszergazda\Documents\GitHub\Eszter_2020.04.27_15_ora\Eszter_2020.04.27_15_ora\bin\Debug\Eszter_2020.04.27_15_ora.pdb
+C:\Users\Rendszergazda\Documents\GitHub\Eszter_2020.04.27_15_ora\Eszter_2020.04.27_15_ora\obj\Debug\Eszter_2020.04.27_15_ora.csprojAssemblyReference.cache
+C:\Users\Rendszergazda\Documents\GitHub\Eszter_2020.04.27_15_ora\Eszter_2020.04.27_15_ora\obj\Debug\Eszter_2020.04.27_15_ora.csproj.CoreCompileInputs.cache
+C:\Users\Rendszergazda\Documents\GitHub\Eszter_2020.04.27_15_ora\Eszter_2020.04.27_15_ora\obj\Debug\Eszter_2020.04.27_15_ora.exe
+C:\Users\Rendszergazda\Documents\GitHub\Eszter_2020.04.27_15_ora\Eszter_2020.04.27_15_ora\obj\Debug\Eszter_2020.04.27_15_ora.pdb
